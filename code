@@ -21,4 +21,5 @@
 #define pb push_back
 #define f first
 #define s second
+#define read(a) int a;cin>>a
 using namespace std;
