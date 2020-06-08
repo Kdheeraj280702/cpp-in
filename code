@@ -21,5 +21,5 @@
 #define pb push_back
 #define f first
 #define s second
-#define read(a) int a;cin>>a
+#define test() int t;cin>>t;while(t--) solve()
 using namespace std;
